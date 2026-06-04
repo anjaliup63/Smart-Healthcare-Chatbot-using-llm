@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+deep-translator
+gtts
+scikit-learn
+numpy
+pandas
